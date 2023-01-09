@@ -3,7 +3,7 @@
     "rules": "database.rules.json"
   },
   "hosting": {
-    "public": "dist",
+    "public": "dist/pack1-pick1-angular",
     "ignore": [
       "firebase.json",
       "**/.*",
