@@ -1,0 +1,6 @@
+Inherits Smart Components
+- complex Logic
+- Dependency Injection
+- Streams
+- Controller like
+- Know App Strucuture

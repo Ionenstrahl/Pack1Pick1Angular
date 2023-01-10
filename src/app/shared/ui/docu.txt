@@ -1,0 +1,4 @@
+contains Dumb Components
+- Concerned about Display
+- don't know App
+- Communicates primarily by @Input & @Output
